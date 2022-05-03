@@ -3,3 +3,7 @@
 # # Player Moving mechanics, code reduction
 # # Demo uploaded to Server
 # # Jump, Falling, Running animation
+
+# 05/02/22
+# # get_node("AnimationPlayer").play("walk") 
+# # get_node("AnimstionPlayer").play_backwards("walk")
